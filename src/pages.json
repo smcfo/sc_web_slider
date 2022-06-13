@@ -1,0 +1,22 @@
+{
+  "transitionTime": 300000,
+  "refeshTime": 3600000,
+
+  "pages": [
+    {
+      "name": "create react app",
+      "type": "wpage",
+      "url": "https://create-react-app.dev/"
+    },
+    {
+      "name": "react",
+      "type": "img",
+      "url": "https://blog.desafiolatam.com/wp-content/uploads/2019/04/react-galaxia.png"
+    },
+    {
+      "name": "kermit",
+      "type": "img",
+      "url": "https://media1.giphy.com/media/8m4R4pvViWtRzbloJ1/200w.gif"
+    }
+  ]
+}
