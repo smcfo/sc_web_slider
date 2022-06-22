@@ -17,7 +17,7 @@ function App() {
       {pages.map((page, index) => {
         if (page.type === "wpage")
           return (
-            <iframe
+            <img
               key={index}
               src={page.url}
               title="description"
